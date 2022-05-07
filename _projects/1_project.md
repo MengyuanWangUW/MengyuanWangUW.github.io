@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Trajectory optimization for an All-Electric Aircraft
-description: Design a cruise velocity profile for an AEA based on optimal control theory
-img: assets/img/12.jpg
+title: Flight dynamics
+description: Introduction on aircraft flight dynamics and simplifications.
+img: 
 importance: 1
 category: work
 ---
 
-
+Here we introduce the nonlinear aircraft longitudinal dynamics and assumptions we make 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
