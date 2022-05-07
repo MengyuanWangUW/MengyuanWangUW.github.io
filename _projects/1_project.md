@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Trajectory optimization for an All-Electric Aircraft
+description: Design a cruise velocity profile for an AEA based on optimal control theory
 img: assets/img/12.jpg
 importance: 1
 category: work
