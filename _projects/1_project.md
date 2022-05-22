@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Flight dynamics
-description: Introduction on aircraft flight dynamics and simplifications.
-img: 
+title: To charge or not to charge
+description: Comparison of two parallel hybrid-electric architectures.
+img: assets/img/proj_1/ParallelHybrid.drawio.png
 importance: 1
 category: work
 ---
 
-Here we introduce the nonlinear aircraft longitudinal dynamics and assumptions we make 
+For Hybrid-Electric Aircraft, it is generally assumed that the gas turbine and electric motor are connected mechanically, allowing the gas turbine to charge the battery during flight. The potential benefits includes: (a)The engine can run in its most efficient region to conserve fuel by using the electric motor as an extra load; (b)The electric motor can work in "one-engine-inoperative" (OEI) mode by charging the battery to its fully charged state after the climbing phase. These benefits are suitable for series, parallel, and series-parallel configurations.
+
+However, these benefits have never been testified theoretically nor experimentally. We 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
