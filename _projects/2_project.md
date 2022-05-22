@@ -16,20 +16,21 @@ Urban air mobility is a concept that promotes aerial modes of transport in urban
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj_2/air.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    #<div class="col-sm mt-3 mt-md-0">
-        #{% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, ground traffic network loading. On the right, air traffic network loading
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_2/curve.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj_2/bar.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The total link loading reduction in the ground network due to vertiport addition for different budget value $ \gamma$.
 </div>
 
 You can also put regular text between your rows of images.
