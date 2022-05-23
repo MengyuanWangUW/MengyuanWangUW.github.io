@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: Power allocation for Hybrid-Electric aircraft
 description: another without an image
-img:
-importance: 3
-category: fun
+img: 
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
