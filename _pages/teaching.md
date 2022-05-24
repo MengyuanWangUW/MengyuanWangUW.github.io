@@ -6,6 +6,23 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+TA experiences
 
-Organize your courses by years, topics, or universities, however you like!
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      Time
+    </div>
+    <div class="col-sm">
+      Course
+    </div>
+  </div>
+    <div class="row">
+    <div class="col-sm">
+      Sept 2021-Dec 2021
+    </div>
+    <div class="col-sm">
+      UW AE 513 Multivariable Control
+    </div>
+  </div>
+</div>
