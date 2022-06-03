@@ -5,7 +5,9 @@ title: teaching
 description: 
 nav: true
 ---
+Co-instructor: UW AE 513 Multivariable Control
 
+Lecture notes and videos will come soon
 
 
 <style>
@@ -26,10 +28,7 @@ table, th, td {
             <th>Date</th>
             <th>Course</th>
         </tr>
-        <tr>
-            <th>2021/09-2021/12</th>
-            <th> UW AE 513 Multivariable Control</th>
-        </tr>
+        
         <tr>
             <th>2021/04-2021/06</th>
             <th> UW AE 511 Classical Control Theory</th>

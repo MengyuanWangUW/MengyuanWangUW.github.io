@@ -8,6 +8,8 @@ display_categories: [work, life]
 horizontal: false
 ---
 
+I will finish updating projects soon, the current version is unfinished
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
