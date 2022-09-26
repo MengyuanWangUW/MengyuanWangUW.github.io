@@ -7,6 +7,7 @@ nav: true
 ---
 <p><b>Teaching</b>
 In Fall 2022, I will be the primary instructor for AE 514: Estimation Theory. All lecture notes and videos will be updated here.
+</p>
 
 <style>
 table, th, td {
@@ -29,7 +30,6 @@ table, th, td {
             <th>Lecture Videos<th>
             <th>Extra Resources<th>
         </tr>
-        
         <tr>
             <th>10/04/2022</th>
             <th>Syllabus/Logistics/Curve fitting example/Least Square Approximation Intro </th>
@@ -37,7 +37,6 @@ table, th, td {
             <th><th>
             <th><th>
         </tr>
-
         -->
     </tbody>
 </table>
@@ -45,8 +44,10 @@ table, th, td {
 <p><b>Co-Teaching</b>
 AE 513 Multivariable Control @UW 
 I was a co-instructor to this course, I gave lectures on Lyapunov Stability and Linear Quadratic Regulator(LQR) control. 
+</p>
 
 <p><b>Teaching Assistant Experiences</b>
+</p>
 <style>
 table, th, td {
   border:2px solid black;
