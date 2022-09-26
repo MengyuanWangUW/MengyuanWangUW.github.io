@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: 
 description: 
 nav: true
 ---
@@ -38,8 +38,6 @@ table, th, td {
             <th>coming soon</th>
             <th>coming soon</th>
         </tr>
-        </tr>
-        -->
     </tbody>
 </table>
 
@@ -90,7 +88,5 @@ table, th, td {
             <th>2014/09-2014/12</th>
             <th> Beihang University, Navigation System Experiment</th>
         </tr>
-        </tr>
-        -->
     </tbody>
 </table>
