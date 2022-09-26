@@ -33,9 +33,9 @@ table, th, td {
         <tr>
             <th>10/04/2022</th>
             <th>Syllabus/Logistics/Curve fitting example/Least Square Approximation Intro </th>
-            <th><th>
-            <th><th>
-            <th><th>
+            <th>coming soon<th>
+            <th>coming soon<th>
+            <th>coming soon<th>
         </tr>
         </tr>
         -->
