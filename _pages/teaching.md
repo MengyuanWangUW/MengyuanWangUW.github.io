@@ -37,6 +37,7 @@ table, th, td {
             <th><th>
             <th><th>
         </tr>
+        </tr>
         -->
     </tbody>
 </table>
