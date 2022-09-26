@@ -27,16 +27,16 @@ table, th, td {
         <tr>
             <th>Date</th>
             <th>Topic</th>
-            <th>Lecture Notes<th>
-            <th>Lecture Videos<th>
-            <th>Extra Resources<th>
+            <th>Lecture Notes</th>
+            <th>Lecture Videos</th>
+            <th>Extra Resources</th>
         </tr>
         <tr>
             <th>10/04/2022</th>
             <th>Syllabus/Logistics/Curve fitting example/Least Square Approximation Intro </th>
-            <th>coming soon<th>
-            <th>coming soon<th>
-            <th>coming soon<th>
+            <th>coming soon</th>
+            <th>coming soon</th>
+            <th>coming soon</th>
         </tr>
         </tr>
         -->
@@ -84,7 +84,7 @@ table, th, td {
         <tr>
             <th>2019/01-2019/03</th>
             <th> UW AA 210 Engineering Statics</th>
-            <tr>
+        <tr>
             <th>2018/09-2018/12</th>
             <th> UW AA 547 Linear Systems Theory</th>
         </tr>
