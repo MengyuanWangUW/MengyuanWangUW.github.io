@@ -43,10 +43,19 @@ table, th, td {
 
 <p style="font-size:28pt"><b>Co-Instructor</b></p>
 
-<p style="font-size:20pt"><b>AE 513 Multivariable Control @UW </b></p>
+AE 513 Multivariable Control @UW 
 
 I was a co-instructor to this course, I gave lectures on Lyapunov Stability and Linear Quadratic Regulator(LQR) control. 
 
+<a href="/assets/pdf/teach_estimation/lecture3b_LyapunovStability.pdf" target="_blank">LyapunovStability_1</a>
+
+<a href="/assets/pdf/teach_estimation/lecture4_LyapunovStability.pdf" target="_blank">LyapunovStability_2</a>
+
+<a href="/assets/pdf/teach_estimation/lecture5_lyap_lqr.pdf" target="_blank">LQR_1</a>
+
+<a href="/assets/pdf/teach_estimation/lecture6_lqr.pdf" target="_blank">LQR_2</a>
+
+<a href="/assets/pdf/teach_estimation/lecture7_lqr_dt_ct.pdf" target="_blank">LQR_3</a>
 
 <p style="font-size:28pt"><b>Teaching Assistant Experiences</b></p>
 <style>
@@ -82,6 +91,7 @@ table, th, td {
         <tr>
             <th>2019/01-2019/03</th>
             <th> AA 210 Engineering Statics</th>
+        </tr>
         <tr>
             <th>2018/09-2018/12</th>
             <th> AA 547 Linear Systems Theory</th>
