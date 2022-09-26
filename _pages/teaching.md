@@ -5,10 +5,10 @@ title: Teaching
 description: 
 nav: true
 ---
-<p style="font-size:28pt"><b>Instructor</b></p>
+<p style="font-size:28pt"><b>Instructor-AE 514: Estimation Theory</b></p>
 
 
-In Fall 2022, I will be the primary instructor for AE 514: Estimation Theory. All lecture notes and videos will be updated here.
+In Fall 2022, I will be the primary instructor for AE 514: Estimation Theory at UW. All lecture notes and videos will be updated here.
 <style>
 table, th, td {
   border:2px solid black;
@@ -56,6 +56,7 @@ I was a co-instructor to this course, I gave lectures on Lyapunov Stability and 
 <a href="/assets/pdf/teach_estimation/lecture6_lqr.pdf" target="_blank">LQR_2</a>
 
 <a href="/assets/pdf/teach_estimation/lecture7_lqr_dt_ct.pdf" target="_blank">LQR_3</a>
+
 
 <p style="font-size:28pt"><b>Teaching Assistant Experiences</b></p>
 <style>
