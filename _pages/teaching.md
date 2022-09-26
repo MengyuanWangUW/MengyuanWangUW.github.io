@@ -58,17 +58,11 @@ table, th, td {
 
 
 <table style="width:100%">
-    <thead>
-        <tr>
-            <th colspan="2"> <p style="font-size:20pt"> Past TA experiences </p></th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <th>Date</th>
             <th>Course</th>
         </tr>
-        
         <tr>
             <th>2021/04-2021/06</th>
             <th> UW AE 511 Classical Control Theory</th>
