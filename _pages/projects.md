@@ -7,8 +7,7 @@ nav: true
 display_categories: [work, life]
 horizontal: false
 ---
-
-I will finish updating projects soon, the current version is unfinished
+is still updating
 
 <!-- pages/projects.md -->
 <div class="projects">

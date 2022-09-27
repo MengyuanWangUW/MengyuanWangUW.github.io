@@ -6,6 +6,7 @@ img: assets/img/proj_2/air.png
 importance: 2
 category: work
 ---
+Details can be found in <a href='https://arxiv.org/abs/2203.05702'>this paper</a>
 
 We want to build an air transportation network based on the original ground transportation network in a metropolitan city. The goal is to minimize the traffic congestion in this new hybrid ground-air transportation network.
 
