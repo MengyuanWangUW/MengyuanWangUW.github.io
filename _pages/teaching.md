@@ -47,7 +47,7 @@ AE 513 Multivariable Control @UW
 
 I was a co-instructor to this course, I gave lectures on Lyapunov Stability and Linear Quadratic Regulator(LQR) control. 
 
-<a href='https://www.dropbox.com/s/maunqzh8vrw3293/lecture3b_LyapunovStability.pdf?dl=0'>LyapunovStability_1</a>
+<a href='http://students.washington.edu/assets/pdf/teach_estimation/lecture3b_LyapunovStability.pdf'>LyapunovStability_1</a>
 
 <a href='https://www.dropbox.com/s/swr3r9jsiinybwl/lecture4_LyapunovStability.pdf?dl=0'>LyapunovStability_2</a>
 
