@@ -34,7 +34,7 @@ table, th, td {
             <th>10/04/2022</th>
             <th>Syllabus/Logistics/Curve fitting example/Least Square Approximation Intro </th>
             <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_1_1004.pdf" target="_blank">Lecture_1</a></th>
-            <th><a href='https://drive.google.com/file/d/1Ve7M2vchg6WJtnRWx82JvwXDd1NQR5r5/view?usp=sharing'></a></th>
+            <th><a href='https://drive.google.com/file/d/1Ve7M2vchg6WJtnRWx82JvwXDd1NQR5r5/view?usp=sharing'>Lecture_1 recording</a></th>
             <th>N/A</th>
         </tr>
     </tbody>
