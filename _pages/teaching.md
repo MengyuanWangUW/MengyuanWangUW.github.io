@@ -33,9 +33,9 @@ table, th, td {
         <tr>
             <th>10/04/2022</th>
             <th>Syllabus/Logistics/Curve fitting example/Least Square Approximation Intro </th>
-            <th>coming soon</th>
-            <th>coming soon</th>
-            <th>coming soon</th>
+            <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_1_1004.pdf" target="_blank">Lecture_1</a></th>
+            <th><a href='https://drive.google.com/file/d/1Ve7M2vchg6WJtnRWx82JvwXDd1NQR5r5/view?usp=sharing'></a></th>
+            <th>N/A</th>
         </tr>
     </tbody>
 </table>
@@ -47,15 +47,15 @@ AE 513 Multivariable Control @UW
 
 I was a co-instructor to this course, I gave lectures on Lyapunov Stability and Linear Quadratic Regulator(LQR) control. 
 
-<a href="/mywang10/assets/pdf/teach_estimation/lecture3b_LyapunovStability.pdf" target="_blank">LyapunovStability_1</a>
+<a href="/mywang10/assets/pdf/teach_lqr/lecture3b_LyapunovStability.pdf" target="_blank">LyapunovStability_1</a>
 
-<a href="/mywang10/assets/pdf/teach_estimation/lecture4_LyapunovStability.pdf" target="_blank">LyapunovStability_2</a>
+<a href="/mywang10/assets/pdf/teach_lqr/lecture4_LyapunovStability.pdf" target="_blank">LyapunovStability_2</a>
 
-<a href="/mywang10/assets/pdf/teach_estimation/lecture5_lyap_lqr.pdf" target="_blank">LQR_1</a>
+<a href="/mywang10/assets/pdf/teach_lqr/lecture5_lyap_lqr.pdf" target="_blank">LQR_1</a>
 
-<a href="/mywang10/assets/pdf/teach_estimation/lecture6_lqr.pdf" target="_blank">LQR_2</a>
+<a href="/mywang10/assets/pdf/teach_lqr/lecture6_lqr.pdf" target="_blank">LQR_2</a>
 
-<a href="/mywang10/assets/pdf/teach_estimation/lecture7_lqr_dt_ct.pdf" target="_blank">LQR_3</a>
+<a href="/mywang10/assets/pdf/teach_lqr/lecture7_lqr_dt_ct.pdf" target="_blank">LQR_3</a>
 
 
 <p style="font-size:28pt"><b>Teaching Assistant Experiences</b></p>
