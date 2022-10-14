@@ -32,10 +32,17 @@ table, th, td {
         </tr>
         <tr>
             <th>10/04/2022</th>
-            <th>Syllabus/Logistics/Curve fitting example/Least Square Approximation Intro </th>
+            <th>Syllabus/Logistics/Curve fitting example/Least Squares Approximation Intro </th>
             <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_1_1004.pdf" target="_blank">Lecture_1</a></th>
             <th><a href='https://drive.google.com/file/d/1Ve7M2vchg6WJtnRWx82JvwXDd1NQR5r5/view?usp=sharing'>Lecture_1 recording</a></th>
             <th>N/A</th>
+        </tr>
+        <tr>
+            <th>10/11/2022</th>
+            <th>Linear sequential estimation/ Nonlinear least squares approximation/ Probability review</th>
+            <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_2_1011.pdf" target="_blank">Lecture_2</a></th>
+            <th><a href='https://drive.google.com/file/d/1Mt2sTItN-bt0ZFAqKvOlPgdZsp73NeyC/view?usp=sharing'>Lecture_2 recording</a></th>
+            <th><a href='https://sites.google.com/view/mattlorig/teaching?authuser=0'>Prof. Matt Lorig AMATH 561/562:  Introduction to Probability and Stochastic Processes</a></th>
         </tr>
     </tbody>
 </table>
