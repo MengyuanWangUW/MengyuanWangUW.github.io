@@ -72,6 +72,27 @@ table, th, td {
             <th><a href='https://drive.google.com/file/d/1clZQmfODPShagSk6nwREKNlMjxBTwLC4/view?usp=sharing'>Lecture_6 recording</a></th>
             <th></th>
         </tr>
+        <tr>
+            <th>11/15/2022</th>
+            <th>Discrete time Kalman filter </th>
+            <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_7_1115.pdf" target="_blank">Lecture_7</a></th>
+            <th><a href='https://drive.google.com/file/d/1z3T_wAJnH2brVM25Wj-SCNSd1qrrH3LG/view?usp=share_link'>Lecture_7 recording</a></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11/22/2022</th>
+            <th>Discrete time Kalman filter </th>
+            <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_8_1122.pdf" target="_blank">Lecture_8</a></th>
+            <th><a href='https://drive.google.com/file/d/1SsSCBDjL3QeOSRBepABhthOyhItKaePL/view?usp=share_link'>Lecture_8 recording</a></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11/29/2022</th>
+            <th>Discrete time Kalman filter </th>
+            <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_9_1129.pdf" target="_blank">Lecture_9</a></th>
+            <th><a href='https://drive.google.com/file/d/1H_M9lPyr1n8L7DfaynGsjvWh-1ZKw1Mw/view?usp=share_link'>Lecture_9 recording</a></th>
+            <th></th>
+        </tr>
     </tbody>
 </table>
 
