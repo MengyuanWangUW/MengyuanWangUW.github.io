@@ -8,7 +8,7 @@ nav: true
 <p style="font-size:28pt"><b>Instructor-AE 514: Estimation Theory</b></p>
 
 
-In Fall 2022, I will be the primary instructor for AE 514: Estimation Theory at UW. All lecture notes and videos will be updated here.
+In Fall 2022, I was the primary instructor for AE 514: Estimation Theory at UW. All lecture notes and videos are updated here. Please send me emails if you have any questions or find anything wrong. I'd love to discuss with you!
 <style>
 table, th, td {
   border:2px solid black;
@@ -74,23 +74,30 @@ table, th, td {
         </tr>
         <tr>
             <th>11/15/2022</th>
-            <th>Discrete time Kalman filter </th>
+            <th>Discrete time EKF / Continuous time KF </th>
             <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_7_1115.pdf" target="_blank">Lecture_7</a></th>
             <th><a href='https://drive.google.com/file/d/1z3T_wAJnH2brVM25Wj-SCNSd1qrrH3LG/view?usp=share_link'>Lecture_7 recording</a></th>
             <th></th>
         </tr>
         <tr>
             <th>11/22/2022</th>
-            <th>Discrete time Kalman filter </th>
+            <th>EKF/UKF </th>
             <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_8_1122.pdf" target="_blank">Lecture_8</a></th>
             <th><a href='https://drive.google.com/file/d/1SsSCBDjL3QeOSRBepABhthOyhItKaePL/view?usp=share_link'>Lecture_8 recording</a></th>
             <th></th>
         </tr>
         <tr>
             <th>11/29/2022</th>
-            <th>Discrete time Kalman filter </th>
+            <th>More about UKF/Particle filter </th>
             <th><a href="/mywang10/assets/pdf/teach_estimation/Lecture_9_1129.pdf" target="_blank">Lecture_9</a></th>
             <th><a href='https://drive.google.com/file/d/1H_M9lPyr1n8L7DfaynGsjvWh-1ZKw1Mw/view?usp=share_link'>Lecture_9 recording</a></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>112/06/2022</th>
+            <th>Students project-presentation </th>
+            <th>No lecture</th>
+            <th>No video due to privacy protection</th>
             <th></th>
         </tr>
     </tbody>
