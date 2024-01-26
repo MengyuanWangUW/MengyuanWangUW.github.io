@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PHD candidate in <a href='http://depts.washington.edu/uwrainlab/'>Rain Lab</a>, University of Washington
+subtitle: PHD in <a href='http://depts.washington.edu/uwrainlab/'>Rain Lab</a>, University of Washington
 
 profile:
   align: right
