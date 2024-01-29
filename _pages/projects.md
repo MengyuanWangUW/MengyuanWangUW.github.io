@@ -4,10 +4,10 @@ title: projects
 permalink: /projects/
 description: 
 nav: true
-display_categories: [work, life]
+display_categories: [Electric Aircraft, UAM]
 horizontal: false
 ---
-is still updating
+#Here are some of my projects during my phd
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Urban Air Mobility - network desing
+title: Urban Air Mobility - network design
 description: Select vertiports location optimally
 img: assets/img/proj_2/air.png
 importance: 2
-category: work
+category: UAM
 ---
-Details can be found in <a href='https://arxiv.org/abs/2203.05702'>this paper</a>
 
 We want to build an air transportation network based on the original ground transportation network in a metropolitan city. The goal is to minimize the traffic congestion in this new hybrid ground-air transportation network.
 
@@ -31,6 +30,12 @@ We want to build an air transportation network based on the original ground tran
     </div>
 </div>
 <div class="caption">
-    The total link loading reduction in the ground network due to vertiport addition for different budget value $ \gamma$.
+    The total link loading reduction in the ground network due to vertiport addition for different budget value $$\gamma$$.
+</div>
+
+<div class="publications">
+<h2>Related publications</h2>  
+  
+{% bibliography -f papers -q @*[uamnet=true]* %}
 </div>
 
