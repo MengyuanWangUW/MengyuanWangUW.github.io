@@ -3,7 +3,7 @@ layout: page
 title: Urban Air Mobility - network design
 description: Select vertiports location optimally
 img: assets/img/proj_2/air.png
-importance: 2
+importance: 1
 category: UAM
 ---
 
