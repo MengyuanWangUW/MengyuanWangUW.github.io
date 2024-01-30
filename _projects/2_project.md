@@ -30,7 +30,7 @@ We want to build an air transportation network based on the original ground tran
     </div>
 </div>
 <div class="caption">
-    The total link loading reduction in the ground network due to vertiport addition for different budget value $$\gamma$$.
+    The total link loading reduction in the ground network due to vertiport addition for different budget value.
 </div>
 
 <div class="publications">
