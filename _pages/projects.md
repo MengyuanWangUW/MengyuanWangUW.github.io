@@ -7,7 +7,7 @@ nav: true
 display_categories: [Electric Aircraft, UAM]
 horizontal: false
 ---
-#Here are some of my projects during my phd
+Here are some of my projects during my phd
 
 <!-- pages/projects.md -->
 <div class="projects">

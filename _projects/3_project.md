@@ -2,7 +2,7 @@
 layout: page
 title: Task assignment and vehicle routing in a graphic formulation
 description: Formulate task assignment and vehicle routing problem as a path-finding problem in a graph
-img: 
+img: assets/img/proj_3/Geo8Nt50new.png
 importance: 2
 category: UAM
 ---
@@ -24,4 +24,4 @@ Right figure above presents an illustrative example of a task network consisting
 
 <a href = 'https://drive.google.com/file/d/137-dZZpwlSkIlMJZAX6g2EiVz4_mNwEj/view?usp=drive_link'>This video</a> shows the animation of vehicle routing as it completes tasks.
 
-
+Details for this algorithm can be found in <a href="/assets/pdf/Mengyuan_s_Dissertation.pdf" target="_blank">my dissertation</a>.
