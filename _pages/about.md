@@ -17,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<a href='https://mengyuanwanguw.github.io/'>I no longer update this page, please see my new page here</a>
+
 I am a PhD candidate in the William E. Boeing Department of Aeronautics and Astronautics at the University of Washington. I am also working on the M.S. degree in Applied Mathematics. I received my B.S. in Automation in 2014 and my M.S. in Control Science in 2016 from Beijing University of Aeronautics and Astronautics(BUAA).
 
 My research interests includes energy management for electrically propelled aircraft, Urban Air Mobility, optimal control theory.
